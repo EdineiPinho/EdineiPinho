@@ -19,6 +19,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
 <!--
 **EdineiPinho/EdineiPinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
